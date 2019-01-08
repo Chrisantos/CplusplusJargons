@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1541168361 source:c:\users\chris eze\documents\projects\c++\templates\src\main.cpp
+	<iostream>
+	"ListType.h"
+
+1541168599 c:\users\chris eze\documents\projects\c++\templates\include\listtype.h
+	<cassert>
+

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1541887043 source:c:\users\chris eze\documents\projects\c++\linkedlist\src\linkedlist.cpp
+	"LinkedList.h"
+
+1541888892 t.h"
+
+1541889281 c:\users\chris eze\documents\projects\c++\linkedlist\include\linkedlist.h
+	<iostream>
+
+1541889281 
+
+1541888892 source:c:\users\chris eze\documents\projects\c++\linkedlist\src\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1541887043 source:/home/chrisantus/Documents/Software Dev/C++/LinkedList/src/LinkedList.cpp
+	"LinkedList.h"
+
+1541889269 source:/home/chrisantus/Documents/Software Dev/C++/LinkedList/src/main.cpp
+	<iostream>
+	"LinkedList.h"
+

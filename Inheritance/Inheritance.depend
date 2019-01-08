@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1540259085 source:c:\users\chris eze\documents\projects\c++\inheritance\src\animal.cpp
+	"Animal.h"
+
+1540258408 c:\users\chris eze\documents\projects\c++\inheritance\include\animal.h
+	<string>
+
+1540258908 source:c:\users\chris eze\documents\projects\c++\inheritance\src\main.cpp
+	<iostream>
+	<string>
+	"Animal.h"
+	"Cat.h"
+
+1540258422 c:\users\chris eze\documents\projects\c++\inheritance\include\cat.h
+	"Animal.h"
+	<string>
+
+1540258865 source:c:\users\chris eze\documents\projects\c++\inheritance\src\cat.cpp
+	"Cat.h"
+

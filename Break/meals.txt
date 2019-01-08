@@ -1,0 +1,8 @@
+Plain_Egg
+Bacon_and_Egg
+Muffin
+French_Toast
+Fruit_Basket
+Cereal
+Coffee
+Tea

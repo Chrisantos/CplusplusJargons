@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1541155853 source:c:\users\chris eze\documents\projects\c++\overloading\src\main.cpp
+	<iostream>
+	"Rectangle.h"
+
+1541156512 c:\users\chris eze\documents\projects\c++\overloading\include\rectangle.h
+	<iostream>
+
+1541156525 source:c:\users\chris eze\documents\projects\c++\overloading\src\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+

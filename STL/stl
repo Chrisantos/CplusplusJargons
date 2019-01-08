@@ -1,0 +1,22 @@
+typedef names an alias for a datatype e.g
+typedef int Length;
+
+Length l = 30;
+
+Automatic type conversions are not  considered for templates, but are for ordinary functions
+
+To specialize a class template, you have to declare the class with a leading template<> and a specification of the
+types for which the class template is specialized. e.g
+
+template<>
+class MyClass<int> {} //The class template type must be an int
+
+Default template arguments
+
+template <typename T, typename CONT = std::vector<T> >
+class Stack {
+private:
+CONT elems;
+// elements
+...
+}

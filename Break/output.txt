@@ -1,0 +1,9 @@
+Invoice:
+_____________________________
+   Meal     Price
+1. Plain_Egg      $1.45
+2. French_Toast      $1.99
+3. French_Toast      $1.99
+4. French_Toast      $1.99
+
+Total: $14.84

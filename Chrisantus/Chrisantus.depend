@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1540057574 source:c:\users\chris eze\documents\projects\c++\chrisantus\src\moi.cpp
+	"moi.h"
+	<string>
+	<iostream>
+
+1540057617 c:\users\chris eze\documents\projects\c++\chrisantus\include\moi.h
+	<string>
+
+1540057537 source:c:\users\chris eze\documents\projects\c++\chrisantus\src\main.cpp
+	<iostream>
+	"moi.h"
+	<string>
+

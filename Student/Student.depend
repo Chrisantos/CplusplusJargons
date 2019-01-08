@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1540056317 source:c:\users\chris eze\documents\projects\c++\student\src\main.cpp
+	<iostream>
+	"Student.h"
+
+1540056408 c:\users\chris eze\documents\projects\c++\student\include\student.h
+	<string>
+
+1540056231 source:c:\users\chris eze\documents\projects\c++\student\src\clocktype.cpp
+	<iostream>
+	"clockType.h"
+
+1540055843 c:\users\chris eze\documents\projects\c++\student\include\clocktype.h
+
